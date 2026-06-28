@@ -1,9 +1,11 @@
 function isSameType(value1, value2) {
   //your js code here
+	let result=falsee
 	if((typeof(value1))===(typeof(value2))
 	   {
-		let result=return true;
+		 result=return true;
 	   }
+	
 	
 	
 }
